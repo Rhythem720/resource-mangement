@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "resourceName": "rhythem",
+      "categoryname": "Grocery",
+      "instock": 3,
+      "description": "this is the",
+      "price": 200,
+      "id": 1
+    },
+    {
+      "resourceName": "rhythem",
+      "categoryname": "Grocery",
+      "instock": 3,
+      "description": "this is the",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "resourceName": "rhythem",
+      "categoryname": "Electronics",
+      "instock": 3,
+      "description": "this is the",
+      "price": 200,
+      "id": 3
+    },
+    {
+      "resourceName": "rhythem",
+      "categoryname": "grocery",
+      "instock": 3,
+      "description": "this is the",
+      "price": 200,
+      "id": 4
+    },
+    {
+      "resourceName": "Curry",
+      "description": "this is the curry",
+      "categoryname": "Utensils",
+      "price": "20",
+      "instock": "3",
+      "id": 5
+    },
+    {
+      "resourceName": "tiffin box",
+      "description": "water bottle",
+      "price": "20",
+      "categoryname": "Grocery",
+      "instock": "3",
+      "id": 6
+    },
+    {
+      "resourceName": "bucket",
+      "description": "bootle",
+      "price": "900",
+      "instock": "3",
+      "categoryname": "Utensils",
+      "id": 7
+    },
+    {
+      "resourceName": "tiffin box",
+      "description": "tiffin box",
+      "price": "500",
+      "instock": "2",
+      "categoryname": "Electronics",
+      "id": 10
+    },
+    {
+      "resourceName": "Toothpaste",
+      "description": "Toothpaste",
+      "categoryname": "Grocery",
+      "price": "69",
+      "instock": "1",
+      "id": 11
+    }
+  ]
+}
